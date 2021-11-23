@@ -1,0 +1,14 @@
+Download the file from the link:
+https://drive.google.com/drive/folders/1zy5iYlup1TDGAc5tSGZk92xIJ07EdjAD?usp=sharing
+OR:
+Download the zip file from the Releases section.
+
+Get more games for free:
+https://steamunlocked.net
+
+Instructions: Run Among Us.exe and Enjoy!!!
+
+-To get rid of time ban: 
+-press Win+R and enter %AppData% and press enter.
+-Go to LocalLow and delete the Innersloth file folder. (Back out of the Roaming folder into the main AppData folder)
+-Enjoy!
